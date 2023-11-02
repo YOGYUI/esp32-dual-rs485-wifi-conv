@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+#
+/build*/
+/.idea
+/managed_components/
+/sdkconfig
+/sdkconfig.old
+/sdk
+/*.log
